@@ -5,10 +5,10 @@
 package bufio_test
 
 import (
-	. "bufio"
 	"bytes"
 	"errors"
 	"fmt"
+	. "github.com/ktsimpso/bufio"
 	"io"
 	"io/ioutil"
 	"strings"

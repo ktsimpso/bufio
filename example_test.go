@@ -5,8 +5,8 @@
 package bufio_test
 
 import (
-	"bufio"
 	"fmt"
+	"github.com/ktsimpso/bufio"
 	"os"
 	"strconv"
 	"strings"
